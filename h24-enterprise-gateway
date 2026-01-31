@@ -1,0 +1,14 @@
+h24-enterprise-gateway/
+  app/
+    layout.tsx
+    page.tsx
+    hubs/page.tsx
+  components/
+    HubCard.tsx
+  lib/
+    hubs.ts
+  public/
+  Dockerfile
+  package.json
+  next.config.js
+  .env.example
